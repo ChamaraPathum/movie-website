@@ -23,7 +23,7 @@ body {
 }
 .logo-containor {
   flex: 1;
-  background-color: red;
+  /* background-color: red; */
 }
 .logo {
   font-family: "Sen", sans-serif;
@@ -32,7 +32,7 @@ body {
 }
 .menu-containor {
   flex: 6;
-  background-color: #4dbf00;
+  /* background-color: #4dbf00; */
 }
 .menu-list {
   display: flex;
@@ -50,7 +50,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  background-color: aqua;
+  /* background-color: aqua; */
 }
 
 .profile-picture {
